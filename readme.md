@@ -66,13 +66,13 @@ something like this in production try [Atomic CSS](https://acss.io/).*
 
 ##### `border-width`
 
-- `BdW-n` - `border-width: none;`
-- `BdXW-n` - `border-right-width: none; border-left-width: none;`
-- `BdYW-n` - `border-top-width: none; border-bottom-width: none;`
-- `BdTW-n` - `border-top-width: none;`
-- `BdRW-n` - `border-right-width: none;`
-- `BdBW-n` - `border-bottom-width: none;`
-- `BdLW-n` - `border-left-width: none;`
+- `BdW-0` - `border-width: 0;`
+- `BdXW-0` - `border-right-width: 0; border-left-width: 0;`
+- `BdYW-0` - `border-top-width: 0; border-bottom-width: 0;`
+- `BdTW-0` - `border-top-width: 0;`
+- `BdRW-0` - `border-right-width: 0;`
+- `BdBW-0` - `border-bottom-width: 0;`
+- `BdLW-0` - `border-left-width: 0;`
 
 ##### `box-sizing`
 
